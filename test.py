@@ -1,8 +1,6 @@
 # import os
 # import sys
 
-value = 9
-
 
 def greet(name):
     print(f"Hello, {name}!")  # Intentionally correct formatted line
